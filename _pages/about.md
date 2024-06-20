@@ -15,7 +15,9 @@ In my free time, I enjoy fitness, traveling, singing, and sleeping.
 
 News
 ======
-2024.05 Worked as a summer intern at TikTok Search.
-2024.05 One paper "Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation" is accepted by ACL2024 main. 
-2023.10 One paper "PromptST: Abstract Prompt Learning for End-to-End Speech Translation" is accepted by EMNLP2023 main.
+2024.05   Worked as a summer intern at TikTok Search.
+
+2024.05   One paper "Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation" is accepted by ACL2024 main. 
+
+2023.10   One paper "PromptST: Abstract Prompt Learning for End-to-End Speech Translation" is accepted by EMNLP2023 main.
 
