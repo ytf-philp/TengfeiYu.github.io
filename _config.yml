@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "figure.png"
   name             : "TengFei Yu"
   pronouns         : "He"  
   bio              : "Speech to Text, LLM, NLP"
