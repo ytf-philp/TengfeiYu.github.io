@@ -21,13 +21,14 @@ In my leisure time, I enjoy engaging in fitness activities, traveling, singing, 
 
 ## Publications
 
-1. **PromptST: Abstract Prompt Learning for End-to-End Speech Translation** (EMNLP2023)  
+1. PromptST: Abstract Prompt Learning for End-to-End Speech Translation (EMNLP 2023)  
    [View paper](https://openreview.net/forum?id=Nijnhwu1Uz&referrer=%5Bthe%20profile%20of%20Tengfei%20Yu%5D)  
    **Tengfei Yu**, Liang Ding, Xuebo Liu, Kehai Chen, Meishan Zhang, Dacheng Tao, Min Zhang
     
-2. **Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation** (ACL2024)  
+2. Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation (ACL 2024)  
    **Tengfei Yu**, Xuebo Liu, Liang Ding, Kehai Chen, Dacheng Tao, Min Zhang 
 
 ## Professional Services
 
-- Reviewer for: ACL2024, EMNLP2024, NLPCC2024
+- Reviewer for: ACL 2024, EMNLP 2024, NLPCC 2024
+- Member: ACL (2023-)
