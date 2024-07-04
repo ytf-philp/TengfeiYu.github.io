@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year master's student at Harbin Institute of Technology, Shenzhen, with a research focus on SFT, LLM applications, speech-to-text, and machine translation technologies.
+I am a second-year master's student at Harbin Institute of Technology, Shenzhen, with a research focus on SFT, LLM applications, speech-to-text, and machine translation technologies.
 
 During my master's studies, I have had the privilege of being mentored by Assistant Professor [Xuebo Liu](https://sunbowliu.github.io/) and Professor [Min Zhang](https://faculty.hitsz.edu.cn/MinZhang). Prior to my current studies, I served as a research intern at JD Explore Academy (2021-2022), under the guidance of Dr. [Liang Ding](https://liamding.cc/).
 
